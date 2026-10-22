@@ -1,0 +1,15 @@
+{
+  "name": "form-builder",
+  "version": "1.0.0",
+  "description": "Конструктор форм откликов: админка для менеджера и публичная форма для студента",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/smoke.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
